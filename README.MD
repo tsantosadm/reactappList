@@ -15,7 +15,7 @@
 
 ### Pré-requisitos e como rodar a aplicação/testes
    * Abra o Terminal e execute `npm install` para instalar as dependências
-   * Execute `npm start`para startar o projeto
+   * Execute `npm run dev`para startar o projeto
 
 ### Tecnologias utilizadas
    - vite
